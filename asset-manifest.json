@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/2020-04-04-Live-CSS-Editor/static/css/main.5f361e03.chunk.css",
-    "main.js": "/2020-04-04-Live-CSS-Editor/static/js/main.f785ad06.chunk.js",
-    "main.js.map": "/2020-04-04-Live-CSS-Editor/static/js/main.f785ad06.chunk.js.map",
+    "main.js": "/2020-04-04-Live-CSS-Editor/static/js/main.74fd24e0.chunk.js",
+    "main.js.map": "/2020-04-04-Live-CSS-Editor/static/js/main.74fd24e0.chunk.js.map",
     "runtime-main.js": "/2020-04-04-Live-CSS-Editor/static/js/runtime-main.a7def18e.js",
     "runtime-main.js.map": "/2020-04-04-Live-CSS-Editor/static/js/runtime-main.a7def18e.js.map",
     "static/js/2.a860f238.chunk.js": "/2020-04-04-Live-CSS-Editor/static/js/2.a860f238.chunk.js",
     "static/js/2.a860f238.chunk.js.map": "/2020-04-04-Live-CSS-Editor/static/js/2.a860f238.chunk.js.map",
     "index.html": "/2020-04-04-Live-CSS-Editor/index.html",
-    "precache-manifest.b6e96c6881e252b45ef43f2529fd9e25.js": "/2020-04-04-Live-CSS-Editor/precache-manifest.b6e96c6881e252b45ef43f2529fd9e25.js",
+    "precache-manifest.363e6da26430e823eee1fa7a085966b9.js": "/2020-04-04-Live-CSS-Editor/precache-manifest.363e6da26430e823eee1fa7a085966b9.js",
     "service-worker.js": "/2020-04-04-Live-CSS-Editor/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/2020-04-04-Live-CSS-Editor/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.a860f238.chunk.js.LICENSE.txt": "/2020-04-04-Live-CSS-Editor/static/js/2.a860f238.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.a7def18e.js",
     "static/js/2.a860f238.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.f785ad06.chunk.js"
+    "static/js/main.74fd24e0.chunk.js"
   ]
 }
